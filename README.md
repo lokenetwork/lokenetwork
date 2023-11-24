@@ -1,6 +1,6 @@
 - 👋 Hi, I’m loken
 - 👀 I’m interested in FFmpeg,SRS,ZLMediakit,WebRTC
-- 🌱 I’m currently writing a book 《[FFmpeg原理](https://ffmpeg.xianwaizhiyin.net/)》《《[SRS原理](https://srs.xianwaizhiyin.net/)》》
+- 🌱 I’m currently writing a book 《[FFmpeg原理](https://ffmpeg.xianwaizhiyin.net/)》《[SRS原理](https://srs.xianwaizhiyin.net/)》
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me , search Loken1 in wechat
 
